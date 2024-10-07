@@ -1,0 +1,23 @@
+*{
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.center{
+    margin: auto;
+    width: 70%;
+
+}
+a{
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    box-sizing: border-box;
+}
